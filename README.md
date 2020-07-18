@@ -3,10 +3,12 @@
 # Semantic Line Detection Using Mirror Attention and Comparative Ranking and Matching
 #### Dongkwon Jin, Jun-Tae Lee, and Chang-Su Kim
 
-\\![IVOS Image](Overall_Network.png)
+<!--
+![IVOS Image](Overall_Network.png)
 
 \\[[Project page]](https://openreview.net/forum?id=bo_lWt_aA)
 \\[[arXiv]](https://arxiv.org/abs/2007.08139)
+-->
 
 Implementation of "Semantic Line Detection Using Mirror Attention and Comparative Ranking and Matching"
 Codes in this github:
@@ -38,6 +40,6 @@ title={Semantic Line Detection Using Mirror Attention and Comparative Ranking an
 author={Dongkwon Jin, Jun-Tae Lee, and Chang-Su Kim},
 booktitle={ECCV},
 year={2020},
-\\url={https://openreview.net/forum?id=bo_lWt_aA}
+
 }
 ```
