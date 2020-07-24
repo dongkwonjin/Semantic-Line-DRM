@@ -13,7 +13,7 @@
 Implementation of the paper **"Semantic Line Detection Using Mirror Attention and Comparative Ranking and Matching"**.
 
 ### Requirements
-- PyTorch 1.3.1 (Other versions can cause different results)
+- PyTorch 1.3.1
 - CUDA 10.0
 - CuDNN 7.6.5
 - python 3.6
