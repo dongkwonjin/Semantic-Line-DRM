@@ -29,7 +29,7 @@ Create conda environment:
 
 Download repository:
 ```
-    $ git clone https://github.com/JunHeum/BMBC.git
+    $ git clone https://github.com/dongkwonjin/Semantic-Line-DRM.git
 ```
 
 ### Directory Structure
