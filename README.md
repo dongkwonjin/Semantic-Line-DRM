@@ -30,8 +30,6 @@ Implementation of "Semantic Line Detection Using Mirror Attention and Comparativ
 To be released
 
 ### Reference
-
-Please cite the following paper if you feel this repository useful:
 ```
 @Inproceedings{
 Jin2020DRM,
