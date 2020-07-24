@@ -10,8 +10,7 @@
 \\[[arXiv]](https://arxiv.org/abs/2007.08139)
 -->
 
-Implementation of "Semantic Line Detection Using Mirror Attention and Comparative Ranking and Matching"
-Codes in this github:
+Implementation of "Semantic Line Detection Using Mirror Attention and Comparative Ranking and Matching" in this github:
 
 ### Prerequisite
 - python 3.6
