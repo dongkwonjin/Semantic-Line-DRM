@@ -10,13 +10,22 @@
 \\[[arXiv]](https://arxiv.org/abs/2007.08139)
 -->
 
-Implementation of "Semantic Line Detection Using Mirror Attention and Comparative Ranking and Matching" in this github:
+Implementation of the paper **"Semantic Line Detection Using Mirror Attention and Comparative Ranking and Matching"**.
 
-### Prerequisite
+### Requirements
+- PyTorch 1.3.1 (Other versions can cause different results)
+- CUDA 10.0
+- CuDNN 7.6.5
 - python 3.6
-- pytorch 1.3.1
-- opencv 3.4.16
-- numpy, PtQt5, and other general libraries of python3
+
+### Installation
+Create conda environment:
+```
+    $ conda create -n DRM python=3.6 anaconda
+    $ conda activate DRM
+    $ pip install opencv-python==3.4.2.16
+    $ conda install pytorch==1.3.1 torchvision cudatoolkit=10.0 -c pytorch
+```
 
 ### Directory Structure
  
