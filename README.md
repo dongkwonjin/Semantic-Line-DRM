@@ -27,6 +27,11 @@ Create conda environment:
     $ conda install pytorch==1.3.1 torchvision cudatoolkit=10.0 -c pytorch
 ```
 
+Download repository:
+```
+    $ git clone https://github.com/JunHeum/BMBC.git
+```
+
 ### Directory Structure
  
 ### Instruction
