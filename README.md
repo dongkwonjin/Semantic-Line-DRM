@@ -33,12 +33,7 @@ Download repository:
 ```
 ### Instruction
 
-#### 
 
-
-#### Train code
-
-To be released
 
 ### Reference
 ```
@@ -47,7 +42,6 @@ Jin2020DRM,
 title={Semantic Line Detection Using Mirror Attention and Comparative Ranking and Matching},
 author={Dongkwon Jin, Jun-Tae Lee, and Chang-Su Kim},
 booktitle={ECCV},
-year={2020},
-
+year={2020}
 }
 ```
