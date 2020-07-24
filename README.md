@@ -31,7 +31,7 @@ To be released
 
 ### Reference
 
-Please cite our paper if the implementations are useful in your work:
+Please cite the following paper if you feel this repository useful:
 ```
 @Inproceedings{
 Jin2020DRM,
