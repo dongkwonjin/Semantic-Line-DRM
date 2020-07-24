@@ -31,9 +31,6 @@ Download repository:
 ```
     $ git clone https://github.com/dongkwonjin/Semantic-Line-DRM.git
 ```
-
-### Directory Structure
- 
 ### Instruction
 
 #### 
