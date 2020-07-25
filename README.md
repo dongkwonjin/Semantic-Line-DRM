@@ -34,16 +34,16 @@ Download repository:
 
 ### Instruction
 
-1. Download dataset.
+1. Download datasets. ```SEL``` and ```SEL_Hard``` datasets for semantic line detection. Other datasets for application.
 
-|        Dataset      |        custom path     |      Original path     |
-|:-------------------:|:----------------------:|:----------------------:|
-|          SEL        |          [here]        |          [here]        |
-|       SEL_Hard      |          [here]        |                        |
-|         ICCV        |          [here]        |          [here]        |
-|          NYU        |          [here]        |          [here]        |
-|       SYM_Hard      |          [here]        |                        |
-|    AVA landscape    |          [here]        |          [here]        |
+|        Dataset      |            Custom          |      Original path     |
+|:-------------------:|:--------------------------:|:----------------------:|
+|          SEL        |          [Download]        |          [here]        |
+|       SEL_Hard      |          [Download]        |                        |
+|         ICCV        |          [Download]        |          [here]        |
+|          NYU        |          [Download]        |          [here]        |
+|       SYM_Hard      |          [Download]        |                        |
+|    AVA landscape    |          [Download]        |          [here]        |
 
 
 2. Download our [network parameters](https://drive.google.com/file/d/1SSGpOfhDKzoZl9jXeTvACLUUshBS1rNz/view?usp=sharing) if you want to get the performance of the paper.
