@@ -34,7 +34,17 @@ Download repository:
 
 ### Instruction
 
-1. Download [SEL dataset and preprocessed data](https://drive.google.com/file/d/1K_lc284Mie-i3o4jEHF4dhObqOS_ITLc/view?usp=sharing). You can download the original dataset in [here](http://mcl.korea.ac.kr/research/Submitted/jtlee_slnet/ICCV2017_JTLEE_dataset.7z). We provide the preprocessed data to train and test proposed three networks in ```data``` and ```edge``` folder. We obtain the data in  ```edge``` folder, by employing [HED algorithm](https://github.com/sniklaus/pytorch-hed).
+1. Download dataset.
+
+|        Dataset      |        custom path     |      Original path     |
+|:-------------------:|:----------------------:|:----------------------:|
+|          SEL        |          [here]        |          [here]        |
+|       SEL_Hard      |          [here]        |                        |
+|         ICCV        |          [here]        |          [here]        |
+|          NYU        |          [here]        |          [here]        |
+|       SYM_Hard      |          [here]        |                        |
+|    AVA landscape    |          [here]        |          [here]        |
+
 
 2. Download our [network parameters](https://drive.google.com/file/d/1SSGpOfhDKzoZl9jXeTvACLUUshBS1rNz/view?usp=sharing) if you want to get the performance of the paper.
 
