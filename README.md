@@ -34,7 +34,7 @@ Download repository:
 
 ### Instruction
 
-1. Download datasets. ```SEL``` and ```SEL_Hard``` datasets for semantic line detection. Other datasets for application.
+1. Download the following datasets. ```SEL``` and ```SEL_Hard``` datasets for semantic line detection. Other datasets for application.
 
 |        Dataset      |            Custom          |      Original path     |
 |:-------------------:|:--------------------------:|:----------------------:|
