@@ -31,9 +31,20 @@ Download repository:
 ```
     $ git clone https://github.com/dongkwonjin/Semantic-Line-DRM.git
 ```
+
 ### Instruction
 
+1. Download [SEL dataset and preprocessed data](https://drive.google.com/file/d/1K_lc284Mie-i3o4jEHF4dhObqOS_ITLc/view?usp=sharing). You can download the original dataset in [here](http://mcl.korea.ac.kr/research/Submitted/jtlee_slnet/ICCV2017_JTLEE_dataset.7z). We provide the preprocessed data to train and test proposed three networks in ```data``` and ```edge``` folder. We obtain the data in  ```edge``` folder, by employing [HED algorithm](https://github.com/sniklaus/pytorch-hed).
 
+2. Download our [network parameters](https://drive.google.com/file/d/1SSGpOfhDKzoZl9jXeTvACLUUshBS1rNz/view?usp=sharing) if you want to get the performance of the paper.
+
+3. Edit `config.py`. Please modify ```dataset_dir``` and ```paper_weight_dir```. We provide specific description of configuration in ```config.txt``` file.
+
+4. Run with 
+```
+cd Semantic-Line-SLNet-master
+python main.py
+```
 
 ### Reference
 ```
