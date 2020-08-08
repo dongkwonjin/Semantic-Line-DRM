@@ -47,6 +47,7 @@ Download repository:
 
 
 2. Download our [network parameters](https://drive.google.com/file/d/1SSGpOfhDKzoZl9jXeTvACLUUshBS1rNz/view?usp=sharing) if you want to get the performance of the paper.
+
 |                 Task                 |         Model          |
 |:------------------------------------:|:----------------------:|
 |        Semantic line detection       |       [Download]       |
