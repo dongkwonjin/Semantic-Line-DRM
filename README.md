@@ -10,7 +10,7 @@
 \\[[arXiv]](https://arxiv.org/abs/2007.08139)
 -->
 
-Implementation of the paper **"Semantic Line Detection Using Mirror Attention and Comparative Ranking and Matching"**.
+Official implementation for **"Semantic Line Detection Using Mirror Attention and Comparative Ranking and Matching"**.
 
 ### Requirements
 - PyTorch 1.3.1
