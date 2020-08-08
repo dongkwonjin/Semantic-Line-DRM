@@ -34,19 +34,26 @@ Download repository:
 
 ### Instruction
 
-1. Download the following datasets. ```SEL``` and ```SEL_Hard``` datasets for semantic line detection. Other datasets for application.
+1. Download the following datasets. ```SEL``` and ```SEL_Hard``` datasets for semantic line detection. Other datasets for applications.
 
 |        Dataset      |            Custom          |      Original path     |
 |:-------------------:|:--------------------------:|:----------------------:|
-|          SEL        |          [Download]        |          [here]        |
-|       SEL_Hard      |          [Download]        |                        |
-|         ICCV        |          [Download]        |          [here]        |
-|          NYU        |          [Download]        |          [here]        |
-|       SYM_Hard      |          [Download]        |                        |
-|    AVA landscape    |          [Download]        |          [here]        |
+|          SEL        |          [Download](https://drive.google.com/file/d/1K_lc284Mie-i3o4jEHF4dhObqOS_ITLc/view?usp=sharing)        |          [here]        |
+|       SEL_Hard      |          [Download](https://drive.google.com/file/d/1tsSlT7in6BdPV5SfvVR4qCEdOYA05zAz/view?usp=sharing)        |                        |
+|         ICCV        |          [Download](https://drive.google.com/file/d/1Tq5nriVoQbL7thHXSVcBY9gPrX2DlCHJ/view?usp=sharing)        |          [here]        |
+|          NYU        |          [Download](https://drive.google.com/file/d/1G71Yspg1T-BkffxaoxDwpvlvad8IuHy2/view?usp=sharing)        |          [here]        |
+|       SYM_Hard      |          [Download](https://drive.google.com/file/d/1dydxRGN7UsfFcg6tzNzrm_o0WJZEEKP8/view?usp=sharing)        |                        |
+|    AVA landscape    |          [Download](https://drive.google.com/file/d/1RTqOQ7-JCvcKJncwQ-lo-i1svev9xyrw/view?usp=sharing)        |          [here]        |
 
 
 2. Download our [network parameters](https://drive.google.com/file/d/1SSGpOfhDKzoZl9jXeTvACLUUshBS1rNz/view?usp=sharing) if you want to get the performance of the paper.
+|                 Task                 |         Model          |
+|:------------------------------------:|:----------------------:|
+|        Semantic line detection       |       [Download]       |
+|   Dominant parallel line detection   |       [Download]       |
+|  Reflection symmetry axis detection  |       [Download]       |
+
+
 
 3. Edit `config.py`. Please modify ```dataset_dir``` and ```paper_weight_dir```. We provide specific description of configuration in ```config.txt``` file.
 
