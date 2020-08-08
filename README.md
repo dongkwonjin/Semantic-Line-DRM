@@ -35,7 +35,7 @@ Download repository:
 
 ### Instruction
 
-1. Download the following datasets to ```root/```. ```SEL``` and ```SEL_Hard``` are datasets for semantic line detection. Others are datasets for applications.
+1. Download the following datasets to ```root/```. ```SEL``` and ```SEL_Hard``` are datasets for semantic line detection. Others are datasets for applications. We obtain the edge detection results in  ```edge``` folder, by employing [HED algorithm](https://github.com/sniklaus/pytorch-hed).
 
 |        Dataset      |            Custom          |      Original path     |
 |:-------------------:|:--------------------------:|:----------------------:|
