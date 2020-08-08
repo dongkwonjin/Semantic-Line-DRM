@@ -46,7 +46,7 @@ Download repository:
 |       SYM_Hard      |          [Download](https://drive.google.com/file/d/1dydxRGN7UsfFcg6tzNzrm_o0WJZEEKP8/view?usp=sharing)        |                        |
 
 
-2. Download our model parameters to ```root/(task)/``` if you want to get the performance of the paper.
+2. Download our model parameters to ```root/(task_folder_name)/``` if you want to get the performance of the paper.
 
 |                 Task                 |     Model parameters     |
 |:------------------------------------:|:------------------------:|
@@ -60,7 +60,7 @@ Download repository:
 
 4. Run with 
 ```
-cd Semantic-Line-DRM-master/(task)/(model)/
+cd Semantic-Line-DRM-master/(task_folder_name)/(model_folder_name)/
 python main.py
 ```
 
