@@ -77,5 +77,5 @@ python main.py
 }
 ```
 
-Source code for baseline method is available in [here](https://github.com/dongkwonjin/Semantic-Line-SLNet).
+Source code for baseline method(SLNet) is available in [here](https://github.com/dongkwonjin/Semantic-Line-SLNet).
 
