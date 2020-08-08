@@ -38,12 +38,12 @@ Download repository:
 
 |        Dataset      |            Custom          |      Original path     |
 |:-------------------:|:--------------------------:|:----------------------:|
-|          SEL        |          [Download](https://drive.google.com/file/d/1K_lc284Mie-i3o4jEHF4dhObqOS_ITLc/view?usp=sharing)        |          [here]        |
+|          SEL        |          [Download](https://drive.google.com/file/d/1K_lc284Mie-i3o4jEHF4dhObqOS_ITLc/view?usp=sharing)        |          [here](https://github.com/dongkwonjin/Semantic-Line-SLNet)        |
 |       SEL_Hard      |          [Download](https://drive.google.com/file/d/1tsSlT7in6BdPV5SfvVR4qCEdOYA05zAz/view?usp=sharing)        |                        |
-|         ICCV        |          [Download](https://drive.google.com/file/d/1Tq5nriVoQbL7thHXSVcBY9gPrX2DlCHJ/view?usp=sharing)        |          [here]        |
-|          NYU        |          [Download](https://drive.google.com/file/d/1G71Yspg1T-BkffxaoxDwpvlvad8IuHy2/view?usp=sharing)        |          [here]        |
+|    AVA landscape    |          [Download](https://drive.google.com/file/d/1RTqOQ7-JCvcKJncwQ-lo-i1svev9xyrw/view?usp=sharing)        |          [here](https://faculty.ist.psu.edu/zzhou/projects/vpdetection/)        |
+|         ICCV        |          [Download](https://drive.google.com/file/d/1Tq5nriVoQbL7thHXSVcBY9gPrX2DlCHJ/view?usp=sharing)        |          [here](https://sites.google.com/view/symcomp17/)        |
+|          NYU        |          [Download](https://drive.google.com/file/d/1G71Yspg1T-BkffxaoxDwpvlvad8IuHy2/view?usp=sharing)        |          [here](https://symmetry.cs.nyu.edu/)        |
 |       SYM_Hard      |          [Download](https://drive.google.com/file/d/1dydxRGN7UsfFcg6tzNzrm_o0WJZEEKP8/view?usp=sharing)        |                        |
-|    AVA landscape    |          [Download](https://drive.google.com/file/d/1RTqOQ7-JCvcKJncwQ-lo-i1svev9xyrw/view?usp=sharing)        |          [here]        |
 
 
 2. Download our model parameters to ```root/``` if you want to get the performance of the paper.
@@ -56,7 +56,7 @@ Download repository:
 
 
 
-3. Edit `config.py`. Please modify ```dataset_dir``` and ```paper_weight_dir```. We provide specific description of configuration in ```config.txt``` file.
+3. Edit `config.py`. Please modify ```dataset_dir``` and ```paper_weight_dir```.
 
 4. Run with 
 ```
