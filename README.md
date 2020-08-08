@@ -34,7 +34,7 @@ Download repository:
 
 ### Instruction
 
-1. Download the following datasets. ```SEL``` and ```SEL_Hard``` datasets for semantic line detection. Other datasets for applications.
+1. Download the following datasets to ```root/```. ```SEL``` and ```SEL_Hard``` are datasets for semantic line detection. Others are datasets for applications.
 
 |        Dataset      |            Custom          |      Original path     |
 |:-------------------:|:--------------------------:|:----------------------:|
@@ -46,13 +46,13 @@ Download repository:
 |    AVA landscape    |          [Download](https://drive.google.com/file/d/1RTqOQ7-JCvcKJncwQ-lo-i1svev9xyrw/view?usp=sharing)        |          [here]        |
 
 
-2. Download our [network parameters](https://drive.google.com/file/d/1SSGpOfhDKzoZl9jXeTvACLUUshBS1rNz/view?usp=sharing) if you want to get the performance of the paper.
+2. Download our model parameters to ```root/``` if you want to get the performance of the paper.
 
-|                 Task                 |         Model          |
-|:------------------------------------:|:----------------------:|
-|        Semantic line detection       |       [Download]       |
-|   Dominant parallel line detection   |       [Download]       |
-|  Reflection symmetry axis detection  |       [Download]       |
+|                 Task                 |     Model parameters     |
+|:------------------------------------:|:------------------------:|
+|        Semantic line detection       |        [Download](https://drive.google.com/file/d/18-T-gKj0x5QtOhauXVRAgLq3quMqxiKB/view?usp=sharing)        |
+|   Dominant parallel line detection   |        [Download](https://drive.google.com/file/d/1r3LVK8FaNI4TDjVewJwG64QAsTB7wEeF/view?usp=sharing)        |
+|  Reflection symmetry axis detection  |        [Download](https://drive.google.com/file/d/1pfo7fYMZe8kFOXnLOS5DY8WrvlsikWth/view?usp=sharing)        |
 
 
 
