@@ -67,10 +67,10 @@ python main.py
 ### Reference
 ```
 @Inproceedings{
-Jin2020DRM,
-title={Semantic Line Detection Using Mirror Attention and Comparative Ranking and Matching},
-author={Dongkwon Jin, Jun-Tae Lee, and Chang-Su Kim},
-booktitle={ECCV},
-year={2020}
+    Jin2020DRM,
+    title={Semantic Line Detection Using Mirror Attention and Comparative Ranking and Matching},
+    author={Dongkwon Jin, Jun-Tae Lee, and Chang-Su Kim},
+    booktitle={ECCV},
+    year={2020}
 }
 ```
