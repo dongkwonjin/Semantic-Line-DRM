@@ -60,7 +60,7 @@ Download repository:
 
 4. Run with 
 ```
-cd Semantic-Line-DRM-master/(task_folder_name)/(model_folder_name)/
+cd Semantic-Line-DRM-master/(task_folder_name)/(model_folder_name)/code/
 python main.py
 ```
 
