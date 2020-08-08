@@ -56,7 +56,7 @@ Download repository:
 
 
 
-3. Edit `config.py`. Please modify ```dataset_dir``` and ```paper_weight_dir```. If you want to get the performance of the paper, please modify ```run_mode``` to 'test_paper'.
+3. Edit `config.py`. Please modify ```dataset_dir``` and ```paper_weight_dir```. If you want to get the performance of the paper, please input ```run_mode``` to 'test_paper'.
 
 4. Run with 
 ```
