@@ -1,7 +1,7 @@
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)
 
 # [ECCV 2020] Semantic Line Detection Using Mirror Attention and Comparative Ranking and Matching
-#### Dongkwon Jin, Jun-Tae Lee, and Chang-Su Kim
+### Dongkwon Jin, Jun-Tae Lee, and Chang-Su Kim
 ![Overview](Overview.png)
 
 <!--
