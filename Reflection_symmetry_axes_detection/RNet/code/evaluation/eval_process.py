@@ -14,9 +14,9 @@ def eval_AUC_PR(out, gt, eval_func):
         gt_num = gt[i].shape[0]
 
         if gt_num == 0:
-            match['r'][i] = torch.zeros(gt_num, dtype=torch.float32).cuda()
-        elif out_num == 0:
             match['p'][i] = torch.zeros(out_num, dtype=torch.float32).cuda()
+        elif out_num == 0:
+            match['r'][i] = torch.zeros(gt_num, dtype=torch.float32).cuda()
         else:
             miou['p'][i], miou['r'][i] = eval_func.measure_miou(out=out[i],
                                                                 gt=gt[i])
