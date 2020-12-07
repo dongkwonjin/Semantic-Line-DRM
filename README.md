@@ -11,7 +11,8 @@
 \\[[arXiv]](https://arxiv.org/abs/2007.08139)
 -->
 
-Official pytorch implementation for **"Semantic Line Detection Using Mirror Attention and Comparative Ranking and Matching"**.
+Official pytorch implementation for **"Semantic Line Detection Using Mirror Attention and Comparative Ranking and Matching"** [paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650120.pdf).
+Source code for baseline method (SLNet) is available in [here](https://github.com/dongkwonjin/Semantic-Line-SLNet).
 
 ### Requirements
 - PyTorch 1.3.1
@@ -76,6 +77,3 @@ python main.py
     year={2020}
 }
 ```
-
-Source code for baseline method (SLNet) is available in [here](https://github.com/dongkwonjin/Semantic-Line-SLNet).
-
