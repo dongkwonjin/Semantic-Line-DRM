@@ -43,20 +43,20 @@ Download repository:
 |        Dataset      |            Custom          |      Original path     |
 |:-------------------:|:--------------------------:|:----------------------:|
 |          SEL        |          [Download](https://drive.google.com/file/d/1K_lc284Mie-i3o4jEHF4dhObqOS_ITLc/view?usp=sharing)        |          [here](https://github.com/dongkwonjin/Semantic-Line-SLNet)        |
-|       SEL_Hard      |          [Download](https://drive.google.com/file/d/1tsSlT7in6BdPV5SfvVR4qCEdOYA05zAz/view?usp=sharing)        |                        |
-|    AVA landscape    |          [Download](https://drive.google.com/file/d/1RTqOQ7-JCvcKJncwQ-lo-i1svev9xyrw/view?usp=sharing)        |          [here](https://faculty.ist.psu.edu/zzhou/projects/vpdetection/)        |
-|         ICCV        |          [Download](https://drive.google.com/file/d/1Tq5nriVoQbL7thHXSVcBY9gPrX2DlCHJ/view?usp=sharing)        |          [here](https://sites.google.com/view/symcomp17/)        |
-|          NYU        |          [Download](https://drive.google.com/file/d/1G71Yspg1T-BkffxaoxDwpvlvad8IuHy2/view?usp=sharing)        |          [here](https://symmetry.cs.nyu.edu/)        |
-|       SYM_Hard      |          [Download](https://drive.google.com/file/d/1dydxRGN7UsfFcg6tzNzrm_o0WJZEEKP8/view?usp=sharing)        |                        |
+|       SEL_Hard      |          [Download](https://drive.google.com/file/d/1KB-8A39Vnkx-gtiRc1UpgKnfAJKdl8oc/view?usp=sharing)        |                        |
+|    AVA landscape    |          [Download](https://drive.google.com/file/d/1TiwkHyh8tfNPP7sFuWWF6lyquh35U_ns/view?usp=sharing)        |          [here](https://faculty.ist.psu.edu/zzhou/projects/vpdetection/)        |
+|         ICCV        |          [Download](https://drive.google.com/file/d/1UPOMbQDAOtg7i8k8wyxDqlzQL4rxeryl/view?usp=sharing)        |          [here](https://sites.google.com/view/symcomp17/)        |
+|          NYU        |          [Download](https://drive.google.com/file/d/1pkbe9hEmB8yJZwpuz4mjpF9TNsINNeEL/view?usp=sharing)        |          [here](https://symmetry.cs.nyu.edu/)        |
+|       SYM_Hard      |          [Download](https://drive.google.com/file/d/17u0zioeyD_mNAgqbOTALFhaS8ZIrpIMF/view?usp=sharing)        |                        |
 
 
 2. Download our model parameters to ```root/(task_folder_name)/``` if you want to get the performance of the paper.
 
 |                 Task                 |     Model parameters     |
 |:------------------------------------:|:------------------------:|
-|        Semantic line detection       |        [Download](https://drive.google.com/file/d/18-T-gKj0x5QtOhauXVRAgLq3quMqxiKB/view?usp=sharing)        |
-|   Dominant parallel line detection   |        [Download](https://drive.google.com/file/d/1r3LVK8FaNI4TDjVewJwG64QAsTB7wEeF/view?usp=sharing)        |
-|  Reflection symmetry axis detection  |        [Download](https://drive.google.com/file/d/1pfo7fYMZe8kFOXnLOS5DY8WrvlsikWth/view?usp=sharing)        |
+|        Semantic line detection       |        [Download](https://drive.google.com/file/d/1X-FLJDqnfmajFgBWkJPGSdTEq8xYtJo4/view?usp=sharing)        |
+|   Dominant parallel line detection   |        [Download](https://drive.google.com/file/d/1CYOUc5vhO8pXl-PRFlJhfDqaDAIb9JB_/view?usp=sharing)        |
+|  Reflection symmetry axis detection  |        [Download](https://drive.google.com/file/d/1V19HKSEtuAKM5511nCWCCdi3mcrvbVpu/view?usp=sharing)        |
 
 
 
