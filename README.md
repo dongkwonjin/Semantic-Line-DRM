@@ -16,6 +16,8 @@ Official implementation for **"Semantic Line Detection Using Mirror Attention an
 
 Source code for baseline method (SLNet) is available in [here](https://github.com/dongkwonjin/Semantic-Line-SLNet).
 
+Also, more recent work can be found in [here](https://github.com/dongkwonjin/Semantic-Line-MWCS).
+
 ### Requirements
 - PyTorch 1.3.1
 - CUDA 10.0
