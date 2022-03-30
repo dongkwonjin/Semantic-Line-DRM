@@ -12,7 +12,7 @@
 -->
 
 Official implementation for **"Semantic Line Detection Using Mirror Attention and Comparative Ranking and Matching"** 
-[[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650120.pdf) [[supp]](http://mcl.korea.ac.kr/~dkjin/eccv2020/3397-supp.pdf) [[demo]](http://mcl.korea.ac.kr/dkjin_eccv2020/) [[arxiv]](https://arxiv.org/abs/2203.15285).
+[[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650120.pdf) [[supp]](http://mcl.korea.ac.kr/~dkjin/eccv2020/3397-supp.pdf) [[demo]](https://youtu.be/58zTkhXFU_c) [[arxiv]](https://arxiv.org/abs/2203.15285).
 
 Source code for baseline method (SLNet) is available in [here](https://github.com/dongkwonjin/Semantic-Line-SLNet).
 
