@@ -3,7 +3,7 @@
 # [ECCV 2020] Semantic Line Detection Using Mirror Attention and Comparative Ranking and Matching
 ### Dongkwon Jin, Jun-Tae Lee, and Chang-Su Kim
 
-<img src="https://github.com/dongkwonjin/Semantic-Line-DRM/blob/master/Overview.png" alt="overview" width="70%" height="70%" border="10" />
+<img src="https://github.com/dongkwonjin/Semantic-Line-DRM/blob/master/Overview.png" alt="overview" width="80%" height="80%" border="10" />
 
 <!--
 ![IVOS Image](Overall_Network.png)
