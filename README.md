@@ -19,7 +19,7 @@ Source code for baseline method (SLNet) is available in [here](https://github.co
 Also, more recent work can be found in [here](https://github.com/dongkwonjin/Semantic-Line-MWCS).
 
 ### Video
-<a href="https://www.youtube.com/watch?v=58zTkhXFU_c" target="_blank"><img src="https://img.youtube.com/vi/58zTkhXFU_c/0.jpg" alt="Video" width="430" height="240" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=58zTkhXFU_c" target="_blank"><img src="https://img.youtube.com/vi/58zTkhXFU_c/0.jpg" alt="Video" width="40%" height="40%" border="10" /></a>
 
 
 ### Requirements
