@@ -150,8 +150,8 @@ class Region_Pooling_Module(nn.Module):
         region1 = (region_mask[:, 0, :, :].unsqueeze(1) != 0).type(torch.float)
         region2 = (region_mask[:, 1, :, :].unsqueeze(1) != 0).type(torch.float)
 
-        n1 = torch.sum(region1, dim=(1, 2, 3), keepdim=True)
-        n2 = torch.sum(region2, dim=(1, 2, 3), keepdim=True)
+        n1 = torch.sum(region1, dim=(1, 2, 3), keepdim=True) + 1e-9
+        n2 = torch.sum(region2, dim=(1, 2, 3), keepdim=True) + 1e-9
 
         # get points symmetrical to the line using line equation
         l_eq, check = line_equation(norm_pts2[0])
