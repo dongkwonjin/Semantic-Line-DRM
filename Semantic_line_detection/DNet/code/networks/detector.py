@@ -153,8 +153,8 @@ class Region_Pooling_Module(nn.Module):
         region1 = (region_mask[:, 0, :, :].unsqueeze(1) != 0).type(torch.float)
         region2 = (region_mask[:, 1, :, :].unsqueeze(1) != 0).type(torch.float)
 
-        n1 = torch.sum(region1, dim=(1, 2, 3), keepdim=True)
-        n2 = torch.sum(region2, dim=(1, 2, 3), keepdim=True)
+        n1 = torch.sum(region1, dim=(1, 2, 3), keepdim=True) + 1e-9
+        n2 = torch.sum(region2, dim=(1, 2, 3), keepdim=True) + 1e-9
 
         # gaussian filtering the feature map
         g_map = blurred_line_mask * feat_map
@@ -311,7 +311,7 @@ class Gaussian_Filter(object):
         mask_blur = self.gaussian_kernel(F.pad(mask, (self.pad, self.pad, self.pad, self.pad), mode='replicate'))
 
         b, c, h, w,  = mask_blur.shape
-        max_val = torch.max(mask_blur.contiguous().view(b, c, h*w), dim=2)[0].view(b, 1, 1, 1)
+        max_val = torch.max(mask_blur.contiguous().view(b, c, h*w), dim=2)[0].view(b, 1, 1, 1) + 1e-9
         mask_blur = mask_blur / max_val
         return mask_blur
 
